@@ -1,0 +1,2 @@
+def vazifa():
+    print("Vazifa")
